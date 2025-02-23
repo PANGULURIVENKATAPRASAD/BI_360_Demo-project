@@ -1,7 +1,8 @@
 # BI_360_Demo-project
 
 Hello folks, 🙋🏼‍♂️ 
- I would like to present the BI360_challenge project of AtliQ Hardware with power BI module successfully completed at Codebasics.
+ 
+I would like to present the BI360_challenge project of AtliQ Hardware with power BI module successfully completed at Codebasics.
 
 📍 Business problem:
  AtliQ Hardware, a fast-growing consumer electronics company, relies on Excel for data analytics, which limits its ability to generate insights effectively. This lack of efficient analytics contributed to a major loss in Latin America, Implementing advanced analytics tool like power BI could help improve decision-making and prevent future losses.
